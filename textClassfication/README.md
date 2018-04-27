@@ -2,12 +2,6 @@
 This is the implementation for LSTM Text Classfication. <br>
 Perform experiments on the English data from [TREC](http://cogcomp.org/Data/QA/QC/)
 
-## Requirement
-* python 3.5
-* pytorch 0.2.0
-* numpy 1.13.1
-* tqdm
-
 ## Usage
 ```
 python3 main.py -h
@@ -54,5 +48,4 @@ python3 main.py
 
 ## Result
 
-> Acc: 88.6%
 <p align="center"><img width="40%" src="test.png" /></p>
